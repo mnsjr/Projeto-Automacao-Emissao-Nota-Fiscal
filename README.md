@@ -11,4 +11,5 @@ O desafio consiste em utilizar uma base de dados em excel e automatizar o preenc
 Lembrando que o código foi implementado para fazer o update no webdriver sempre que rodar o código.
 
 Como quebrar o captcha do Google.
-<a href="https://www.hashtagtreinamentos.com/quebrar-captcha-com-python">Link</a>
+
+<a href="https://www.hashtagtreinamentos.com/quebrar-captcha-com-python" target="_blank">Link</a>
